@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Sosgrower]]></title>
-        <description><![CDATA[Sosgrower]]></description>
-        <link>https://thegrid.ai/sosgrower/</link>
+        <title><![CDATA[Sos Grower]]></title>
+        <description><![CDATA[Sos Grower]]></description>
+        <link>http://sosgrower.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 01 Mar 2016 01:17:38 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/sosgrower/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 01 Mar 2016 01:52:30 GMT</lastBuildDate>
+        <atom:link href="http://sosgrower.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[SosGrower.com]]></title>
-            <description><![CDATA[<article><h1>SosGrower.com</h1><p>The first and only consulting for your grow. Need help with your plant's? Feel like you have screw up the dosage of your fertilizer? Or perhaps a deficiency... Worry no more for i am here to help! </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c16afa5fa3e5ce09647a1161a11ff0f96da053f7.jpg"></article>]]></description>
-            <link>https://thegrid.ai/sosgrower/sosgrowercom/index.html</link>
+            <description><![CDATA[<article><h1>SosGrower.com</h1><p>The first and only consulting for your grow. Need help with your plant's? Feel like you have screw up the dosage of your fertilizer? Or perhaps a deficiency... Worry no more for i am here to help! </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/807767c1a450fedcc19729ed7e46a344002a5142.jpg"></article>]]></description>
+            <link>http://sosgrower.com/sosgrowercom/index.html</link>
             <guid isPermaLink="false">fd83f50c-ad7e-4701-9df0-84e95c98df70</guid>
-            <pubDate>Tue, 01 Mar 2016 01:17:37 GMT</pubDate>
+            <pubDate>Tue, 01 Mar 2016 01:51:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
