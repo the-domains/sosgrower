@@ -1,0 +1,28 @@
+name: Sosgrower
+favicon: null
+layout_spectrum: 0.2712251970078796
+typography_spectrum: 0.24086822592653334
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.310139104956761
+  lightness: 0.16197032621130347
+  saturation: 0.5228530464228243
+  rhythmicContrast: 0.9444602860603482
+purpose: []
